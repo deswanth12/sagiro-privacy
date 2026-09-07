@@ -51,4 +51,4 @@ We **never** upload, sell, rent, or share your financial data, transaction histo
 
 ## 6. Contact & Support
 For any questions regarding this Privacy Policy, please contact:  
-- **Email**: deshanth@sagiro.app (or developer contact on Google Play Console)  
+- **Email**: sagirocustomerservice@gmail.com (or developer contact on Google Play Console)  
